@@ -1,0 +1,11 @@
+Orden de tareas realizadas:
+
+1. Analisis de las especificaciones del escenario y caso de uso
+
+Duración: 1 día
+
+2. Creación del diagrama de entidad-relación. Validación
+
+Duración: 1 día.
+
+3. Creación de la base de datos
