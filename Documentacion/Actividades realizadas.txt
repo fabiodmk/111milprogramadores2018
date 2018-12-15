@@ -9,3 +9,6 @@ Duración: 1 día
 Duración: 1 día.
 
 3. Creación de la base de datos
+
+1 día
+
