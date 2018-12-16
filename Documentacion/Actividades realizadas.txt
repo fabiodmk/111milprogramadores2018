@@ -10,5 +10,6 @@ Duración: 1 día.
 
 3. Creación de la base de datos
 
-1 día
+Duración: 1 día
 
+4. Creación diagrama de clases y diagrama de secuencia CU Registrar Campo: 1 día
